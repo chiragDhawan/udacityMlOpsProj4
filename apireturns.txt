@@ -1,0 +1,4 @@
+prediction {'predictions': '[0 1 1 0 1]'}
+ scoring {'f1_ Score': '0.3333333333333333\n'}
+ summarystats {'summarystats': [['lastmonth_activity', 5625.923076923077, 425.0, 0.0], ['lastyear_activity', 763.5384615384615, 97.5, 0.0], ['number_of_employees', 457.46153846153845, 99.0, 2.0]]}
+ diagnostics {'execution_time': "Execution Time [0.5347594319991913, 0.23952676599947154] NA Percent [0.0, 0.0, 0.0, 0.0, 0.0] \n Outdated/Installed Packages b'No broken requirements found.\\n'"} 
